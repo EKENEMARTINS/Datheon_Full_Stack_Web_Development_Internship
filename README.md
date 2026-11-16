@@ -1,9 +1,13 @@
 # Datheon Full Stack Web Development Internship
 
 **Intern:** Ekene Martins Okoro
+
 **Organisation:** Datheon (AI Systems & Automation Studio)
+
 **Internship:** Full Stack Web Development Internship — 4 weeks, 100% remote
+
 **Start date:** 11 November 2026
+
 **Credential ID:** DT-2026-8NY18
 
 This repository contains the projects built during the Datheon Full Stack Web Development Internship. Each task lives in its own folder, with its own README.
