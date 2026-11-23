@@ -18,7 +18,7 @@ This repository contains the projects built during the Datheon Full Stack Web De
 | Task | Project | Status |
 | --- | --- | --- |
 | Task 1 | Personal Developer Portfolio & Project Showcase | ✅ Complete |
-| Task 2 | Dynamic Task Manager & Productivity Tracker (CRUD) | ⏳ To do |
+| Task 2 | Dynamic Task Manager & Productivity Tracker (CRUD) | ✅ Complete |
 | Task 3 | Real-Time Weather Forecast & Climate Telemetry App | ⏳ To do |
 | Task 4 | E-Commerce Product Catalog & Interactive Shopping Cart | ⏳ To do |
 
